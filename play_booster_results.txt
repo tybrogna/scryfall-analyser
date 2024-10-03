@@ -1,0 +1,124 @@
+Rarity
+set    color        mythic    rare    uncommon    common
+-----  ---------  --------  ------  ----------  --------
+mkm    white             2       7          14        13
+       blue              2       8          14        13
+       black             2       7          14        13
+       red               2       8          14        13
+       green             2       7          14        13
+       double           12      20          20        10
+       triple            1       0           5         0
+       more              0       2           0         0
+       colorless         0      11           5         6
+       two faces         0       0           0         0
+otj    white             2       7          14        15
+       blue              3       7          14        15
+       black             2       7          14        15
+       red               1       7          14        15
+       green             3       5          14        15
+       double            6      16          20         0
+       triple            3       6           0         0
+       more              0       0           0         0
+       colorless         0       5          10        16
+       two faces         0       0           0         0
+mh3    white             2       9          17        12
+       blue              1       9          12         8
+       black             2      10          17        12
+       red               1       8          13        10
+       green             2       7          13         9
+       double            6       8          18         8
+       triple            2       1           0         0
+       more              1       0           0         0
+       colorless         7      27          30        21
+       two faces         0       0           0         0
+blb    white             3       9          16        13
+       blue              3      10          16        15
+       black             3       8          16        13
+       red               3       9          16        14
+       green             2      11          16        15
+       double            6      12          10        10
+       triple            2       1           0         0
+       more              0       0           0         0
+       colorless         0       4          10         8
+       two faces         0       0           0         0
+
+
+Types
+set      color    creature    sorcery    enchantment    artifact    planeswalker    instant    battle    land
+-----  -------  ----------  ---------  -------------  ----------  --------------  ---------  --------  ------
+mkm         22           2          6              4           0               4          0         0       0
+            18           0          8              3           0               9          0         0       0
+            19           4          4              3           0               7          0         0       0
+            20           3          5              4           0               7          0         0       0
+            18           8          6              1           0               3          0         0       0
+            38           7          5              4           1               8          0         0       1
+             1           0          0              0           0               0          0         0       5
+             1           0          1              0           0               0          0         0       0
+             4           0          1              8           0               0          0        14       0
+             0           0          0              0           0               0          0         0       0
+otj         24           4          3              1           0               6          0         0       0
+            22           5          3              1           1               7          0         0       0
+            22           6          2              0           0               8          0         0       0
+            22           4          3              0           0               8          0         0       0
+            25           6          1              0           0               5          0         0       0
+            31           4          4              1           1               1          0         0       0
+             7           0          2              0           0               0          0         0       0
+             0           0          0              0           0               0          0         0       0
+             5           0          0             11           0               0          0        20       0
+             0           0          0              0           0               0          0         0       0
+mh3         21           5          8              4           0               4          0         0       2
+            13           2          6              2           0               7          0         0       2
+            21           5          6              8           0               5          0         0       2
+            15           4          4              9           0               3          0         0       2
+            14           4          9              1           0               4          0         0       2
+            19           0          1              4           0               3          0         0      15
+             3           0          0              0           0               0          0         0       0
+             1           0          0              1           0               0          0         0       0
+            35           1          3             14           0               6          0        27       1
+             0           0          0              0           0               0          0         0       0
+blb         25           4          4              1           0               7          0         0       0
+            23           8          5              1           0               7          0         0       0
+            22           8          2              1           0               7          0         0       0
+            25           4          5              0           0               8          0         0       0
+            27           5          4              1           0               7          0         0       0
+            36           0          1              0           1               0          0         0       0
+             3           0          0              0           0               0          0         0       0
+             0           0          0              0           0               0          0         0       0
+             2           0          0             10           0               0          0        12       0
+             0           0          0              0           0               0          0         0       0
+
+
+One Color
+set      White    Blue    Black    Red    Green    colorless
+-----  -------  ------  -------  -----  -------  -----------
+mkm         36      37       36     37       35           12
+otj         37      39       38     37       37           16
+mh3         41      43       42     42       41           33
+blb         42      45       40     42       45           15
+
+
+Two Color
+       Azorius W/U    Dimir U/B    Rakdos B/R    Gruul R/G    Selesnya W/G    Orzhov W/B    Izzet U/R    Golgari B/G    Boros R/W    Simic U/G
+---  -------------  -----------  ------------  -----------  --------------  ------------  -----------  -------------  -----------  -----------
+mkm              7            7             7            7               7             8            8              7            7            8
+otj              4            4             7            4               6             5            7              7            8            6
+mh3              4            4             4            4               4             6            5              5            5            6
+blb              3            3             5            4               5             4            6              3            4            4
+
+
+Three Color
+       Bant G/W/U    Esper W/U/B    Grixis U/B/R    Jund B/R/G    Naya R/G/W    Abzan W/B/G    Jeskai U/R/W    Sultai B/G/U    Mardu R/W/B    Temur G/U/R
+---  ------------  -------------  --------------  ------------  ------------  -------------  --------------  --------------  -------------  -------------
+mkm             0              0               0             0             1              1               1               1              1              1
+otj             2              1               2             0             3              0               0               0              0              1
+mh3             1              2               1             1             1              2               1               1              2              1
+blb             1              0               1             0             1              0               0               1              0              0
+
+
+Four or More Color
+       Non-White    Non-Blue    Non-Black    Non-Red    Non-Green    Five Color
+---  -----------  ----------  -----------  ---------  -----------  ------------
+mkm            0           0            0          0            0             2
+otj            0           0            0          0            0             0
+mh3            0           0            0          0            1             0
+blb            0           0            0          0            0             0

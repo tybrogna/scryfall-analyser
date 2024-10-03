@@ -1,0 +1,46 @@
+color           mythic    rare    uncommon    common
+------------  --------  ------  ----------  --------
+white             2.25    8          15.25     13.25
+blue              2.25    8.5        14        12.75
+black             2.25    8          15.25     13.25
+red               1.75    8          14.25     13
+green             2.25    7.5        14.25     13
+double            7.5    14          17         7
+triple            2       2           1.25      0
+more              0.25    0.5         0         0
+colorless         1.75   11.75       13.75     12.75
+double_faced      0       0           0         0
+
+
+set             color    creature    sorcery    enchantment    artifact    planeswalker    instant    battle    land
+------------  -------  ----------  ---------  -------------  ----------  --------------  ---------  --------  ------
+white            23          2.5        5.25           0           5.25            3.75          0      0       0.5
+blue             19          1.75       5.5            0.25        7.5             3.75          0      0       0.5
+black            21          3          3.5            0           6.75            5.75          0      0       0.5
+red              20.5        3.25       4.25           0           6.5             3.75          0      0       0.5
+green            21          0.75       5              0           4.75            5.75          0      0       0.5
+double           31          2.25       2.75           0.75        3               2.75          0      0       4
+triple            3.5        0          0.5            0           0               0             0      0       1.25
+more              0.5        0.25       0.25           0           0               0             0      0       0
+colorless        11.5       10.75       1              0           1.5             0.25          0     18.25    0.25
+double_faced      0          0          0              0           0               0             0      0       0
+
+
+  White    Blue    Black    Red    Green    Colorless
+-------  ------  -------  -----  -------  -----------
+     39      41       39   39.5     39.5           19
+
+
+  Azorius W/U    Dimir U/B    Rakdos B/R    Gruul R/G    Selesnya W/G    Orzhov W/B    Izzet U/R    Golgari B/G    Boros R/W    Simic U/G
+-------------  -----------  ------------  -----------  --------------  ------------  -----------  -------------  -----------  -----------
+          4.5          4.5           5.8          4.8             5.5           5.8          6.5              6          5.5            6
+
+
+  Bant G/W/U    Esper W/U/B    Grixis U/B/R    Jund B/R/G    Naya R/G/W    Abzan W/B/G    Jeskai U/R/W    Sultai B/G/U    Mardu R/W/B    Temur G/U/R
+------------  -------------  --------------  ------------  ------------  -------------  --------------  --------------  -------------  -------------
+           1            0.8               1           0.2           1.5            0.8             0.5             0.8            0.8            0.8
+
+
+  Non-White    Non-Blue    Non-Black    Non-Red    Non-Green    Five Color
+-----------  ----------  -----------  ---------  -----------  ------------
+          0           0            0          0          0.2           0.5
